@@ -18,6 +18,7 @@ Currently studying Computer Science at the University of Michigan. I’m passion
 #### 📚 Frameworks & Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
@@ -36,7 +37,6 @@ Currently studying Computer Science at the University of Michigan. I’m passion
 #### 🗄 Databases & Services:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![DataStax AstraDB](https://img.shields.io/badge/-DataStax%20AstraDB-29A0DB?style=flat&logo=datastax&logoColor=white)
 
 #### 💻 Operating Systems:
