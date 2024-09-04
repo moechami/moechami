@@ -53,9 +53,9 @@ View my projects [**here!**](https://github.com/moechami?tab=repositories)
 
 ## 🌟 Featured Project
 
-### Project Name: [Your Project Title](https://github.com/moechami/your-project-repo)
+### Project Name: [ChoiceAI](https://github.com/moechami/choice-game)
 
 [![Watch the demo](https://img.youtube.com/vi/8YAUm8P8uII/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YAUm8P8uII "Watch the demo")
 
-[**View the repository here!**](https://github.com/moechami/your-project-repo)
+View the repository [**here!**](https://github.com/moechami/your-project-repo)
 
