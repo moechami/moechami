@@ -46,7 +46,8 @@ View my projects [**here!**](https://github.com/moechami?tab=repositories)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💼 Get In Touch:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moecham/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moecham/)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1g-sl45L4AmqzdagwFj8yoHYV6zjKRAqU/view?usp=sharing)
 <br>Personal Email: moeelchami@gmail.com || Student Email: melchami@umich.edu
 
 ## 🌟 Featured Project
