@@ -55,14 +55,7 @@ View my projects [**here!**](https://github.com/moechami?tab=repositories)
 
 ### Project Name: [Your Project Title](https://github.com/moechami/your-project-repo)
 
-[![Project Banner](https://via.placeholder.com/728x90.png)](https://github.com/moechami/your-project-repo)
-
-Brief description of the project. Highlight the features, technologies used, and any unique aspects of the project. You can also include a link to the live version of the project if available.
-
-**Technologies Used**:
-- Technology 1
-- Technology 2
-- Technology 3
+[![Watch the demo](https://img.youtube.com/vi/8YAUm8P8uII/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YAUm8P8uII "Watch the demo")
 
 [**View the repository here!**](https://github.com/moechami/your-project-repo)
 
