@@ -1,6 +1,6 @@
-## Hey there 👋, I'm Moe El-Chami!
+## Hey there 👋, I'm Mohammad El-Chami!
 
-I'm a passionate software developer with an interest in [specific areas like AI, web development, etc.]. I love learning new technologies and building exciting projects.
+I'm currently a studying Computer Science at the University of Michigan with a keen interest in [specific areas like AI, web development, etc.]. I love learning new technologies and building exciting projects.
 
 ### 🔭 What I'm currently working on:
 - [Briefly mention your current projects or work, e.g., "Building a 2D game with Python" or "Developing a web application with React"]
