@@ -4,7 +4,7 @@
 
 Currently studying Computer Science at the University of Michigan. I’m passionate and driven, with a growing expertise in software development and Machine Learning/AI. My journey combines technical knowledge with a creative touch, allowing me to work on diverse projects that blend innovation and practicality. Whether it’s developing applications or participating in clubs, I’m constantly learning new skills and applying them as much as I can in real-world scenarios.
 
-[**View my projects here!**](https://github.com/moechami?tab=repositories)
+View my projects [**here!**](https://github.com/moechami?tab=repositories)
 
 ### 🛠 Skills & Tech Stack:
 
