@@ -49,4 +49,4 @@ View my projects [**here!**](https://github.com/moechami?tab=repositories)
 
 ### 💼 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moecham/)
-Personal Email: moeelchami@gmail.com || Student Email: melchami@umich.edu
+<br>Personal Email: moeelchami@gmail.com || Student Email: melchami@umich.edu
