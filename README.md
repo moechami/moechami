@@ -1,4 +1,5 @@
 ## Hey there! 👋
+![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=googledrive&logoColor=white) <!-- Link your resume in the markdown -->
 
 👨‍🎓 **I'm A Student Developer**
 
@@ -47,5 +48,4 @@ View my projects [**here!**](https://github.com/moechami?tab=repositories)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 💼 Get In Touch:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=googledrive&logoColor=white) <!-- Link your resume in the markdown -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moecham/)
