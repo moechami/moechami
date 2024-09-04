@@ -1,5 +1,5 @@
 ## Hey there! 👋
-![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=googledrive&logoColor=white) <!-- Link your resume in the markdown -->
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1g-sl45L4AmqzdagwFj8yoHYV6zjKRAqU/view?usp=sharing)
 
 👨‍🎓 **I'm A Student Developer**
 
