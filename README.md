@@ -16,6 +16,9 @@ Currently studying Computer Science at the University of Michigan. I’m passion
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### 📚 Frameworks & Libraries:
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFB000?style=flat&logo=huggingface&logoColor=white)
+![LLaMA](https://img.shields.io/badge/-LLaMA-FFA500?style=flat&logo=llama&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
