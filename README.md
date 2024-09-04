@@ -6,7 +6,7 @@ Currently studying Computer Science at the University of Michigan. I’m passion
 
 [**View my projects here!**](https://github.com/moechami?tab=repositories)
 
-### 🛠 Tech Stack & Tools:
+### 🛠 Skills & Tech Stack:
 
 #### 🚀 Languages:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
