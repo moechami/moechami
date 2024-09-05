@@ -58,3 +58,12 @@ View my projects [**here!**](https://github.com/moechami?tab=repositories)
 [![Watch the demo](https://img.youtube.com/vi/8YAUm8P8uII/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YAUm8P8uII)
 
 View the repository [**here!**](https://github.com/moechami/choice-game)
+
+## 📊 GitHub Summary
+
+![Moechami's GitHub stats](https://github-readme-stats.vercel.app/api?username=moechami&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moechami&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moechami&theme=radical)
+
