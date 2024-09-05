@@ -64,6 +64,5 @@ View the repository [**here!**](https://github.com/moechami/choice-game)
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=moechami&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moechami&layout=compact&theme=radical" alt="Top Languages" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moechami&theme=radical" alt="GitHub Streak" width="350"/>
 </div>
 
