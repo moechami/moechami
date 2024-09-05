@@ -54,8 +54,7 @@ View my projects [**here!**](https://github.com/moechami?tab=repositories)
 
 ### Project Name: [ChoiceAI](https://choicegame.vip/)
 
+**Watch the demo below!
 [![Watch the demo](https://img.youtube.com/vi/8YAUm8P8uII/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YAUm8P8uII)
-
-**Watch the demo [here](https://www.youtube.com/watch?v=8YAUm8P8uII)!**
 
 View the repository [**here!**](https://github.com/moechami/choice-game)
